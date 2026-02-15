@@ -1,0 +1,67 @@
+# Junk files to ignore
+*.exe
+*.lnk
+*.dll
+*.png
+*.txt
+*.html
+*.bat
+*.js
+*.css
+*.mp3
+*.m4a
+*.obj
+*.ini
+
+# Folders to ignore
+Benchlab_Service_Install_v1.0.0/
+google_genai-1.62.0/
+Maps/
+New Album (2025)/
+VC REDEIST-2012-2025/
+email-scheduler/
+fps-counter-main/
+platform_manifest-n7.1-pine64/
+editor/
+
+# Other junk
+ClubHellGame/
+Config.txt
+copyrighted-d24b191d496f482a.html
+desktop.ini
+get-pip.py
+index.html
+libplacebo-351.dll
+libvmaf.dll
+minimal-index.html
+rustup-init.exe
+
+# Root level junk files
+Ai Border Check Point System Real Time.txt
+AutoHotkey_2.0.19_setup.exe
+BCLOCONFIG
+Call of Duty.lnk
+CapCut.lnk
+Club Hell.obj
+Discord.lnk
+ECD.PNG-400x400.png
+Fishstrap.lnk
+GLP_installer_900223152_com.activision.callofduty.shooter.exe
+GameLoop.lnk
+Ghost Toolbox.lnk
+Git-2.53.0-64-bit.exe
+LDMultiPlayer.lnk
+LDPlayer 9.lnk
+MEmu.lnk
+Multi-MEmu (2).lnk
+Multi-MEmu.lnk
+NVEncC64.exe
+Nvidia_Porfile_Inspector_2.4.0.19 (2).exe
+Opera Browser.lnk
+Opera GX Browser.lnk
+Roblox Studio.lnk
+Spotify for Artists.lnk
+Spotify.lnk
+TeraBox.lnk
+Travis Dixon - Edge.lnk
+Visual Studio Code.lnk
