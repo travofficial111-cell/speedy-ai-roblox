@@ -1,6 +1,20 @@
 # Junk files to ignore
 *.exe
 *.lnk
+*.obj
+*.ini
+
+# Root level junk files to ignore
+BCONFIG
+Procfile
+README.md
+render.yaml
+SpeedyAIPluginScript.lua
+requirements.txt
+script.js
+styles.css
+index.html
+minimal-index.html
 *.dll
 *.png
 *.txt
